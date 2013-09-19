@@ -1,0 +1,96 @@
+
+body {
+	background-color: #333333 ;
+	margin: 0px 0px 0px 0px ;
+	padding: 0px 0px 0px 0px ;
+	}
+	
+div#siteheader {
+	background-image: url( "../images/background_header.gif" ) ;
+	}
+	
+h1 {
+	background-image: url( "../images/logo.gif" ) ;
+	background-position: top left ;
+	background-repeat: no-repeat ;
+	color: #87BC64 ;
+	font-size: 1px ;
+	height: 69px ;
+	line-height: 1px ;
+	margin: 0px 0px 0px 0px ;
+	overflow: hidden ;
+	padding: 0px 0px 0px 0px ;
+	}
+	
+div#siteheader div.rule {
+	background-color: #F0F0F0 ;
+	border-bottom: 1px solid #999999 ;	
+	border-top: 1px solid #666666 ;	
+	font-size: 2px ;
+	line-height: 2px ;
+	}
+	
+ul#primarynav {
+	background-color: #FFFFFF ;
+	height: 23px ;
+	list-style-type: none ;
+	margin: 0px 0px 0px 0px ;
+	padding: 0px 0px 0px 0px ;
+	}
+	
+ul#primarynav li {
+	float: left ;
+	}
+	
+ul#primarynav li a {
+	background-image: url( "../images/nav_background.gif" ) ;
+	background-position: top left ;
+	background-repeat: no-repeat ;
+	color: #555555 ;
+	float: left ;
+	font-size: 10px ;
+	font-weight: bold ;
+	height: 23px ;
+	line-height: 21px ;
+	overflow: hidden ;
+	padding: 0px 13px 0px 30px ;
+	text-decoration: none ;
+	}
+	
+ul#primarynav li a.on {
+	background-color: #FEF3B9 ;
+	background-image: url( "../images/nav_background_on.gif" ) ;
+	}
+	
+div#sitecontent {
+	background-color: #F0F0F0 ;
+	border-bottom: 1px solid #666666 ;
+	border-top: 1px solid #999999 ;	
+	}
+	
+div#sitecontent div.buffer {
+	padding: 35px 50px 50px 25px ;
+	}
+	
+div#sitefooter {}
+
+div#sitefooter div.rule {
+	border-bottom: 1px solid #000000 ;
+	background-color: #87BC64 ;
+	}
+	
+div#sitefooter div.rule div {
+	background-color: #FEF3B9 ;
+	border-right: 1px solid #666666 ;
+	font-size: 12px ;
+	height: 12px ;
+	line-height: 12px ;
+	width: 220px ;
+	}
+	
+p#copyright {
+	color: #CCCCCC ;
+	font-size: 10px ;
+	margin: 0px 0px 0px 0px ;
+	padding: 15px 0px 50px 15px ;
+	}

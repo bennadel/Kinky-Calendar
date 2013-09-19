@@ -1,0 +1,182 @@
+
+
+p#calendarcontrols {
+	float: right ;
+	font-size: 11px ;
+	line-height: 20px ;
+	margin: 0px 0px 0px 0px ;
+	}
+	
+p#calendarcontrols a {
+	color: #333333 ;
+	}
+	
+form#calendarform {
+	margin: 0px 0px 5px 0px ;
+	}
+	
+form#calendarform select,
+form#calendarform input {
+	font-size: 11px ;
+	}
+
+table#calendar {
+	background-color: #999999 ;
+	}
+	
+table#calendar td {
+	vertical-align: top ;
+	}
+	
+table#calendar tr.header td {
+	background-color: #FEF3B9 ;
+	color: #3F3F3F ;
+	font-size: 11px ;
+	line-height: 22px ;
+	text-align: center ;
+	}
+	
+table#calendar tr.days td {
+	background-color: #FFFFFF ;
+	color: #6B4F2E ;
+	padding: 4px 4px 4px 4px ;
+	}
+	
+table#calendar tr.days td.header {
+	background-color: #E0E0E0 ;
+	padding: 0px 0px 0px 0px ;
+	vertical-align: middle ;
+	}
+	
+table#calendar tr.days td.header a {
+	color: #333333 ;
+	display: block ;
+	font-size: 10px ;
+	font-weight: bold ;
+	height: 80px ;
+	line-height: 80px ;
+	text-align: center ;
+	text-decoration: none ;
+	width: 15px ;
+	}
+	
+table#calendar tr.days td.other {
+	background-color: #F0F0F0 ;
+	}
+	
+table#calendar tr.days td.today {
+	background-color: #BDE2AC ;
+	}
+	
+table#calendar tr.days td a.daynumber, 
+table#calendar tr.days td a.daynumberfull {
+	background-color: #FFFFFF ;
+	border: 1px solid #666666 ;
+	border-left: 1px solid #CCCCCC ;
+	border-top: 1px solid #CCCCCC ;
+	display: block ;
+	font-size: 10px ;
+	height: 15px ;
+	line-height: 15px ;
+	margin-bottom: 3px ;
+	text-align: center ;
+	text-decoration: none ;
+	top: 0px ;
+	width: 23px ;
+	}
+	
+table#calendar tr.days td a.daynumberfull {
+	background-color: #FEF3B9 ;
+	color: #262626 ;
+	font-weight: bold ;
+	width: auto ;
+	}
+	
+table#calendar tr.days td a.event {
+	color: #262626 ;
+	display: block ;
+	font-size: 11px ;
+	margin: 0px 0px 5px 0px ;
+	text-decoration: none ;
+	}
+	
+table#calendar tr.days td em.note {
+	color: #999999 ;
+	}
+	
+table#calendar tr.footer td {
+	background-color: #BDE2AC ;
+	font-size: 2px ;
+	line-height: 2px ;
+	padding: 0px 0px 0px 0px ;
+	}
+	
+table.dataform {}
+
+table.dataform td.left {
+	border-right: 2px solid #CCCCCC ;
+	font-weight: bold ;
+	padding: 6px 13px 12px 0px ;
+	text-align: right ;
+	vertical-align: top ;
+	}
+	
+table.dataform td.left label {
+	display: block ;
+	width: 110px ;
+	}
+
+table.dataform td.right, 
+table.dataform td.righttext {
+	padding: 5px 0px 12px 13px ;
+	vertical-align: top ;
+	}
+	
+table.dataform td.righttext {
+	padding-top: 6px ;
+	}
+
+table.dataform tr.fieldnote td,
+table.dataform td.fieldnote {
+	color: #999999 ;
+	font-size: 11px ;
+	padding: 3px 0px 0px 0px ;
+	}
+	
+input.date {
+	width: 120px ;
+	}
+	
+input.time {
+	width: 120px ;
+	}
+	
+input.large {
+	width: 400px ;
+	}
+	
+textarea.description {
+	height: 200px ;
+	width: 400px ;
+	}
+
+div.instancenote {
+	background-color: #EAEAEA ;
+	border: 1px solid #AAAAAA ;
+	margin: 10px 0px 0px 0px ;
+	padding: 10px 10px 10px 10px ;
+	width: 350px ;
+	}
+	
+div.instancenote strong {
+	display: block ;
+	margin: 0px 0px 7px 0px ;
+	}
+	
+div.formerrors {
+	color: #CC0000 ;
+	}
+	
+div.formerrors h3 {
+	margin: 0px 0px 7px 0px ;
+	}
