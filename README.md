@@ -1,5 +1,5 @@
 
-# jQuery Template Markup Language (JTML)
+# Kinky Calendar - Free ColdFusion Calendar System
 
 by [Ben Nadel][1] (on [Google+][2])
 
