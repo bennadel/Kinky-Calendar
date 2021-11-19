@@ -5,8 +5,6 @@ by [Ben Nadel][1] (on [Google+][2])
 
 __*NOTE: This is a really old project that has not been updated in years.*__
 
-Demo: [View online demo at BenNadel.com][3]
-
 The Kinky Calendar System is a totally free ColdFusion calendar system that 
 was designed, not as a stand-alone application, but rather as a module that 
 could be easily integrated into an existing piece of ColdFusion software. 
